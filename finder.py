@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 10:25:46 2021
 
-@author: Shubham Jhalani
-"""
 import cv2
 import pickle
 import face_recognition
